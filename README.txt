@@ -1,5 +1,5 @@
 The Ultimate Repo
-The ultimatre repo is a collection of files that i find useful
+The ultimatre repo is a collection of files that I find useful
 
 Getting Started
 Just download the zip
